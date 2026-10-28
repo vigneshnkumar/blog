@@ -1,0 +1,22 @@
+#  The contact options shown at the bottom of the sidebar.
+#  Icons: https://fontawesome.com/icons
+
+- type: github
+  icon: "fab fa-github"
+
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/vigneshnkumar/"
+
+- type: portfolio
+  icon: "fas fa-user"
+  url: "https://vigneshnkumar.github.io/"
+  noblank: true
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
